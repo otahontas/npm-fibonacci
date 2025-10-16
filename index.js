@@ -1,4 +1,3 @@
-import nMinus1 from "n-1";
-import nMinus2 from "n-2";
-const result = nMinus1 + nMinus2;
-export default result;
+import nMinus1 from "1.0.1";
+import nMinus2 from "1.0.0";
+export default nMinus1 + nMinus2;
