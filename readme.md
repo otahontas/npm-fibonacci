@@ -1,6 +1,6 @@
 # npm-fibonacci
 
-Fibonacci done through recursive npm versions
+Fibonacci done through recursive npm versions. Publishes one new version (=fibonacci number) every night!
 
 install:
 `npm install`
