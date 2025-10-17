@@ -2,9 +2,9 @@
   "main": "index.js",
   "name": "npm-fibonacci",
   "type": "module",
-  "version": "9227465.0.0",
+  "version": "14930352.0.0",
   "dependencies": {
-    "3524578.0.0": "otahontas/npm-fibonacci#3524578.0.0",
-    "5702887.0.0": "otahontas/npm-fibonacci#5702887.0.0"
+    "5702887.0.0": "otahontas/npm-fibonacci#5702887.0.0",
+    "9227465.0.0": "otahontas/npm-fibonacci#9227465.0.0"
   }
 }
